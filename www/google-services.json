@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212354987049",
+    "firebase_url": "https://rebalance-ft-plus.firebaseio.com",
+    "project_id": "rebalance-ft-plus",
+    "storage_bucket": "rebalance-ft-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212354987049:android:869aaab74f3b273becd838",
+        "android_client_info": {
+          "package_name": "com.ftplus.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212354987049-aoildguambc6bqvag5pblvdukcifvq9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYx9b3TcBLxUmUIr-AGFAmt16CYD0D-g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212354987049-aoildguambc6bqvag5pblvdukcifvq9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

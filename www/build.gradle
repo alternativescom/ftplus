@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+dependencies {
+  // Add this line
+  
+  implementation 'com.google.firebase:firebase-core:17.2.0'
+
+}
+// Add to the bottom of the file
+  
+apply plugin: 'com.google.gms.google-services'
